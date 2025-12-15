@@ -1,0 +1,4 @@
+Dec 10 14:30:01 server1 systemd[1]: Started Daily apt download activities.
+Dec 10 14:31:12 server1 sshd[1024]: Failed password for invalid user admin from 192.168.1.20 port 54321 ssh2
+Dec 10 14:31:18 server1 sshd[1024]: Accepted password for user from 192.168.1.20 port 54321 ssh2
+Dec 10 14:32:45 server1 cron[2048]: (root) CMD (run-parts /etc/cron.hourly)
