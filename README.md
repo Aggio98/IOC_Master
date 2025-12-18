@@ -4,6 +4,7 @@
 - I used argparse to create a command system
 - There is a default of ten lines it will read per file you call
 - You can also tell it how many lines you want to read
+- Creates a dictionary to view all the important information in a clean way
 
 ## Ways to improve
 - Make it so you can call a specific set of lines
